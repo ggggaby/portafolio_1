@@ -1,0 +1,13 @@
+.carousel-item img {
+    max-width: 500px;
+    /* Cambié medida de las imágenes del carrusel */
+    height: auto;
+    margin: 0 auto;
+}
+
+#imagen_pequena {
+    width: 350px; /* Establece el ancho a 350 píxeles */
+    height: 580px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
