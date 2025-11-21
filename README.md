@@ -7,4 +7,5 @@ Este es el e-commerce de una cafetería, se apilcaron:
 - Un formulario para inscribirse a la tienda,
 - Un container con tres imágenes que, al hacer click en cada una, aparece un modal con la receta del producto que aparece en la fotografía,
 - Un footer con la información de la tienda y un ACERCA DE NOSOTROS que al hacer click lleva a otra página que muestra algo de la tienda,
-- Iconos con las redes sociales de la tienda.
+- Iconos con las redes sociales de la tienda,
+- Guardar el producto (sólo 1) al hacer click en "Agregar al Carrito" y un Modal que aparece al hacer click en Carrito (Navbar).
